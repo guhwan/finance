@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67d96510df9ed14e5f06dbdd75ef36ff",
+    "revision": "29f93e6bc98ec7b7e33956c3ffff3643",
     "url": "/finance/index.html"
   },
   {
@@ -8,19 +8,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/finance/static/css/4.4b306f74.chunk.css"
   },
   {
-    "revision": "1bb77dacc661b7a4ffae",
+    "revision": "f5d7b3fee30601ce16ea",
     "url": "/finance/static/css/5.16a4a692.chunk.css"
   },
   {
-    "revision": "8d2dbc7595d761755271",
+    "revision": "3066c2f58b2333139996",
     "url": "/finance/static/css/6.16a4a692.chunk.css"
   },
   {
-    "revision": "00d00b756a30f51d3f40",
+    "revision": "73bb20125f024d661ca1",
     "url": "/finance/static/css/7.16a4a692.chunk.css"
   },
   {
-    "revision": "3a1cbade9474f6f27edf",
+    "revision": "fb8321ab8e6004e69161",
     "url": "/finance/static/css/main.edada6c1.chunk.css"
   },
   {
@@ -40,27 +40,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/finance/static/js/4.f7228586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bb77dacc661b7a4ffae",
-    "url": "/finance/static/js/5.55f04ae8.chunk.js"
+    "revision": "f5d7b3fee30601ce16ea",
+    "url": "/finance/static/js/5.e3342ab3.chunk.js"
   },
   {
-    "revision": "8d2dbc7595d761755271",
-    "url": "/finance/static/js/6.c036a5ea.chunk.js"
+    "revision": "3066c2f58b2333139996",
+    "url": "/finance/static/js/6.2b34608e.chunk.js"
   },
   {
-    "revision": "00d00b756a30f51d3f40",
-    "url": "/finance/static/js/7.600ac53c.chunk.js"
+    "revision": "73bb20125f024d661ca1",
+    "url": "/finance/static/js/7.c49d99b7.chunk.js"
   },
   {
     "revision": "518a09bfb7829f0cff7b",
     "url": "/finance/static/js/8.9a60c3e3.chunk.js"
   },
   {
-    "revision": "3a1cbade9474f6f27edf",
-    "url": "/finance/static/js/main.ee61a9da.chunk.js"
+    "revision": "fb8321ab8e6004e69161",
+    "url": "/finance/static/js/main.916a497d.chunk.js"
   },
   {
-    "revision": "23e55771c0aefa76d226",
-    "url": "/finance/static/js/runtime-main.229122ed.js"
+    "revision": "b02c0e7467808c6c2f9b",
+    "url": "/finance/static/js/runtime-main.4660bf9d.js"
   }
 ]);
